@@ -1,4 +1,4 @@
-# m6-readme
+# README.md for the server
 
 Going full nerd shit with this I'm sorry
 
